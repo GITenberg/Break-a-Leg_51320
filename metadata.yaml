@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '35615'
     url: http://www.gutenberg.org/2009/agents/35615
     wikipedia: https://en.wikipedia.org/wiki/Jack_Gaughan
+covers:
+- cover_type: archival
+  image_path: 51320-h/images/cover.jpg
 creator:
   author:
     agent_name: Harmon, Jim
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '35040'
     url: http://www.gutenberg.org/2009/agents/35040
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51320#Break-a-Leg
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-28'
 gutenberg_type: Text
